@@ -16,7 +16,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
         - Tableau
         - Python
 
-    - <b>Strategy,Marketing,Finance,Accounting</b>
+    - <b>Strategy, Marketing, Finance, Accounting</b>
       - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
       - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
      
