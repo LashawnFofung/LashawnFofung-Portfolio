@@ -87,15 +87,15 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
           
 **Code:** [FO Tread Bikes](https://github.com/LashawnFofung/FO-Tread-Bikes)
             
-**Goal:** To determine what factors contribute the .....
+**Goal:** To determine what factors contribute to market share, financial performance, and overall business success within a competitive bicycle manufacturing simulation.
             
-**Description:** The project focused on analyzing a dataset of ......
+**Description:** The project focused on analyzing a dataset of market simulation data, encompassing financial performance, market share, operational decisions (such as manufacturing capacity and advertising expenditure), and strategic outcomes within a competitive bicycle manufacturing industry.
+
+**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization, strategic planning, financial analysis, decision-making, market analysis, data interpretation, business acumen, report writing
             
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Technology:** CRM, Excel, Forecasting(Production Simulation, Operating Capacity)
             
-**Technology:** CRM, MS Office
-            
-**Results:** Using .........
+**Results:** Using comprehensive market simulation data, we identified that strategic investments in fixed manufacturing capacity and targeted advertising significantly influence market share. Furthermore, pioneering product innovation with 3D-printed carbon fiber technology and robust customer engagement, exemplified by new store openings, were crucial drivers of brand leadership and sales growth. These critical factors collectively contributed to a strong financial performance, culminating in a significant company valuation and a projected Return on Investment (ROI) of 127.68% for the analyzed period.
 
 <h2></h2>  
 
