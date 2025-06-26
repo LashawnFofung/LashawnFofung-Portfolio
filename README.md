@@ -54,7 +54,14 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
          
 **Description:** The project focused on analyzing a dataset related to drug line development strategies for Major Pharmaceutical Company (MPC). It involved evaluating potential outcomes, probabilities, and payoffs for three strategic actions: new drug development, existing drug modification, and no change. The analysis aimed to provide a data-driven recommendation for MPC's drug line development plan, minimizing risk and maximizing potential returns in a complex market. 
          
-**Skills:** Data Analysis , Decision Tree Analysis , Expected Value Calculation , Strategic Decision-making Under Uncertainty
+**Skills:** 
+   - <b>Strategic Leadership & Business Strategy:</b> Strategic Planning and Execution, Market Analysis, Competitive Intelligence, Competitive Strategy, Pricing Strategy, Product Portfolio Management, Scenario Planning, Strategic Agility, Adaptive Strategy Development.
+   - <b>Financial Management & Accounting:</b> Financial Analysis, Strategic Investment, P&L Management, Financial Modeling, Budgeting, Risk Management.
+   - <b>Operations & Supply Chain Management:</b> Supply Chain Management, Process Optimization, Manufacturing Operations, Inventory Management, Production Planning.
+   - <b>Marketing & Sales Management:</b> Product Marketing, Sales Channel Optimization, Market Segmentation, Advertising Strategy, Sales Forecasting, Customer Relationship Management (CRM).
+   - <b>Human Resources:</b> Talent Management, Workforce Planning, Organizational Culture Development (aligned with Conscious Capitalism).
+   - <b>Data Analysis & Decision-Making:</b> Data Cleaning, Data Analysis, Correlation Matrices, Hypothesis Testing, Data Visualization, -Data Interpretation, KPI Tracking, Data-Driven Decision-Making.
+   - <b>Professional & Soft Skills:</b> Critical Thinking, Problem-Solving, Executive Presentation, Cross-Functional Collaboration, Stakeholder Management.
          
 **Technology:** Excel Data Analysis, Decision Tree Analysis
          
