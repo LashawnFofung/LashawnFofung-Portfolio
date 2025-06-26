@@ -87,11 +87,18 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
           
 **Code:** [FO Tread Bikes](https://github.com/LashawnFofung/FO-Tread-Bikes)
             
-**Goal:** To determine what factors contribute to market share, financial performance, and overall business success within a competitive bicycle manufacturing simulation.
+**Goal:** To determine what factors contribute to sustainable market share growth, optimized financial performance, and overall business success within a dynamic and competitive bicycle manufacturing simulation.
             
-**Description:** The project focused on analyzing a dataset of market simulation data, encompassing financial performance, market share, operational decisions (such as manufacturing capacity and advertising expenditure), and strategic outcomes within a competitive bicycle manufacturing industry.
+**Description:** This project focused on analyzing a comprehensive dataset derived from a multi-quarter business simulation. The simulation required strategic decision-making across all core business functions, encompassing market dynamics (including supply and demand forecasting), financial performance, operational efficiency (from manufacturing to supply chain), product innovation, and market positioning within a competitive industry. The analysis aimed to evaluate the impact of various strategic choices on key performance indicators and overall shareholder value, with an underlying focus on Conscious Capitalism principles.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization, strategic planning, financial analysis, decision-making, market analysis, data interpretation, business acumen, report writing
+**Skills:** 
+    - Strategic Leadership & Business Strategy: Strategic Planning and Execution, Market Analysis, Competitive Intelligence, Competitive Strategy, Pricing Strategy, Product Portfolio Management, Scenario Planning, Strategic Agility, Adaptive Strategy Development.
+    - Financial Management & Accounting: Financial Analysis, Strategic Investment, P&L Management, Financial Modeling, Budgeting, Risk Management.
+    - Operations & Supply Chain Management: Supply Chain Management, Process Optimization, Manufacturing Operations, Inventory Management, Production Planning.
+    - Marketing & Sales Management: Product Marketing, Sales Channel Optimization, Market Segmentation, Advertising Strategy, Sales Forecasting, Customer Relationship Management (CRM).
+    - Human Resources: Talent Management, Workforce Planning, Organizational Culture Development (aligned with Conscious Capitalism).
+    - Data Analysis & Decision-Making: Data Cleaning, Data Analysis, Correlation Matrices, Hypothesis Testing, Data Visualization, Data Interpretation, KPI Tracking, Data-Driven Decision-Making.
+    - Professional & Soft Skills: Critical Thinking, Problem-Solving, Executive Presentation, Cross-Functional Collaboration, Stakeholder Management.
             
 **Technology:** CRM, Excel, Forecasting(Production Simulation, Operating Capacity)
             
