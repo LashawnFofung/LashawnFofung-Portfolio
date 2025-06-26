@@ -107,9 +107,9 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
    - <b>Data Analysis & Decision-Making:</b> Data Cleaning, Data Analysis, Correlation Matrices, Hypothesis Testing, Data Visualization, -Data Interpretation, KPI Tracking, Data-Driven Decision-Making.
    - <b>Professional & Soft Skills:</b> Critical Thinking, Problem-Solving, Executive Presentation, Cross-Functional Collaboration, Stakeholder Management.
             
-**Technology:** CRM, Excel, Forecasting(Production Simulation, Operating Capacity)
+**Technology:** CRM, MS Office (Excel for analysis and reporting)
             
-**Results:** Using comprehensive market simulation data, we identified that strategic investments in fixed manufacturing capacity and targeted advertising significantly influence market share. Furthermore, pioneering product innovation with 3D-printed carbon fiber technology and robust customer engagement, exemplified by new store openings, were crucial drivers of brand leadership and sales growth. These critical factors collectively contributed to a strong financial performance, culminating in a significant company valuation and a projected Return on Investment (ROI) of 127.68% for the analyzed period.
+**Results:** Using comprehensive market simulation data and a robust analytical framework, we identified that strategic investments in fixed manufacturing capacity, directly responding to supply and demand fluctuations, and targeted advertising significantly influence market share and sales volume. Furthermore, pioneering product innovation with 3D-printed carbon fiber technology and robust customer engagement, exemplified by new store openings, were crucial drivers of brand leadership and generated demand. These critical factors collectively contributed to a strong financial performance, culminating in a significant company valuation and a projected Return on Investment (ROI) of 127.68% for the analyzed period. Our strategic adaptations based on continuous performance review enabled us to mitigate challenges and reinforce our competitive advantage.
 
 <h2></h2>  
 
