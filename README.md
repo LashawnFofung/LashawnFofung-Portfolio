@@ -145,7 +145,12 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 
 <h2>YOUTUBE VIDEOS</h2>
 
-- [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
+    <h1>MBA Capstone (Marketplace Simulation)</h1>
+    - [Business Plan Presentation](https://youtu.be/fPxMes6A5BI)
+    - [Stockholder Report Presentation](https://youtu.be/c9PEnwB_V0w)
+
+    <h1>Data Analysis</h1>
+    - [Data-Driven Decision Making MBA Project: Nurse Attrition Linear Regression Analysis](https://youtu.be/mEK-_1xrKpA)
 
  
 
