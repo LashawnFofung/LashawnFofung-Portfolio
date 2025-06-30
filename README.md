@@ -12,7 +12,6 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
           - [Analyzing the Drug Market](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
           - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
           - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
-          - [IT Strategic Solutions (SWOT Analysis, Market Research, NPI)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-it-strategic-solutions-swot-analysis-market-research-npi)
         - SQL
         - Power BI
         - Tableau
