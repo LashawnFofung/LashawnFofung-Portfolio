@@ -110,23 +110,6 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 <h2></h2>  
 
 
- <h3> IT Strategic Solutions (SWOT Analysis, Market Research, NPI)</h3>
-          
-**Code:** [Fofung Voyages Strategic Technology Plan](https://github.com/LashawnFofung/Fofung-Voyages-Strategic-Technology-Plan)
-            
-**Goal:** To determine what factors contribute the .....
-            
-**Description:** The project focused on analyzing a dataset of ......
-            
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
-            
-**Technology:** CRM, MS Office
-            
-**Results:** Using .........
-
-<h2></h2>  
-
-
 <h2>CERTIFICATIONS</h2>
 
 - <b> Project Management Professional(PMP)</b>
