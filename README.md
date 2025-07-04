@@ -9,9 +9,9 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
     - <b>Data</b>
         - Excel
-          - [Analyzing the Drug Market](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
-          - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
-          - [FO Tread Bikes (MBA Capstone Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+          - [Analyzing the Drug Market Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+          - [Nurse Attrition Linear Regression Analysis Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
+          - [FO Tread Bikes (MBA Capstone Conscious Capitalism)Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
         - SQL
             - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
                 -  Hero Information Dataset: Data Exploration
@@ -27,7 +27,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
         - Power BI
 
     - <b>Strategy, Marketing, Finance, Accounting</b>
-      - [FO Tread Bikes (MBA Capstone Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+      - [FO Tread Bikes (MBA Capstone Conscious Capitalism)Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
      
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
