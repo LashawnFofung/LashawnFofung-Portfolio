@@ -14,7 +14,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
           - [FO Tread Bikes (MBA Capstone Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
         - SQL
             - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
-                -  Dataset: Data Exploration
+                -  Hero Information Dataset: Data Exploration
                 -  <i>Review the Data Exploration SQL Scripts:</i> 
                       - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
                       - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
