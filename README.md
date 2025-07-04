@@ -14,10 +14,10 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
           - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
         - SQL
             - [Superhereos Analysis Project](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)    
-        - Power BI
         - Tableau
             - [Tableau Public: Superheroes Analysis Report](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
         - Python
+        - Power BI
 
     - <b>Strategy, Marketing, Finance, Accounting</b>
       - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
