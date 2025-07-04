@@ -13,9 +13,10 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
           - [Nurse Attrition Linear Regression Analysis](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
           - [FO Tread Bikes (Conscious Capitalism)](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
         - SQL
-            - [Superhereo Analysis Project](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)    
+            - [Superhereos Analysis Project](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)    
         - Power BI
         - Tableau
+            - [Tableau Public: Superheroes Analysis Report](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
         - Python
 
     - <b>Strategy, Marketing, Finance, Accounting</b>
