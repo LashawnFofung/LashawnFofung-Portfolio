@@ -51,7 +51,7 @@ Explore my portfolio to see how my skills and experiences can drive innovation a
 <h1>PROJECTS</h1>
 
 <h2>Portfolio - Data Analysis Projects</h2>
-       In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+       In this section, I have listed my data analytics projects with a brief description of the technology stack used to solve cases.
 
 <h2></h2>
 
