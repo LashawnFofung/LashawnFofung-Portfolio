@@ -7,38 +7,6 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) </b>
 - <b>[DATA ANALYSIS PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
-
-    - <b>Excel</b>
-      - <b>Analyzing the Drug Market Project</b>
-         - Drug Market Dataset: Data Exploration, Decision Tree Analysis
-         - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
-      - <b>Nurse Attrition Linear Regression Analysis Project</b>
-        - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
-        - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
-      - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
-        - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
-         - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
-
-
-  - <b>SQL</b>
-    - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
-      -  Hero Information Dataset: Data Exploration
-         -  <i>Review the Data Exploration SQL Scripts:</i> 
-           - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
-           - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
-  
-        
-  - <b>Python</b>
-     
-
-
-  - <b>Data Visualization</b>
-    - Tableau
-      - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-    - Power BI
-      
-
 - <b>[MBA IT MGT PORTFOLIO](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
@@ -54,7 +22,39 @@ My toolkit includes proficiency in Tableau, Power BI, SQL, and Excel, which I ap
 
 Currently, I am actively building out public data analysis projects to demonstrate practical application of these skills. Explore my repositories to see how data insights can drive innovation and success.
 
-<h2></h2>
+<h1></h1>
+
+<h2>DATA ANALYSIS PROJECTS</h2>
+
+- <b>Excel</b>
+  - <b>Analyzing the Drug Market Project</b>
+    - Drug Market Dataset: Data Exploration, Decision Tree Analysis
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
+  - <b>Nurse Attrition Linear Regression Analysis Project</b>
+    - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
+  - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
+    - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
+    - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
+
+
+- <b>SQL</b>
+    - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
+      -  Hero Information Dataset: Data Exploration
+      -  <i>Review the Data Exploration SQL Scripts:</i> 
+        - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
+        - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
+  
+        
+- <b>Python</b>
+     
+
+- <b>Data Visualization</b>
+    - Tableau
+      - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+    - Power BI
+      
 
 
 <h2>CERTIFICATIONS</h2>
