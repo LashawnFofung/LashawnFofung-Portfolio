@@ -7,25 +7,30 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) </b>
 - <b>[DATA ANALYSIS PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
 
-    - <b>Data</b>
-        - Excel
-          - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
-          - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
-          - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
-        - SQL
-            - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
-                -  Hero Information Dataset: Data Exploration
-                -  <i>Review the Data Exploration SQL Scripts:</i> 
-                      - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
-                      - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
+    - <b>Excel</b>
+      - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+        - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
+        - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+
+
+  - <b>SQL</b>
+    - [Superhereos Analysis Project Repo](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
+      -  Hero Information Dataset: Data Exploration
+         -  <i>Review the Data Exploration SQL Scripts:</i> 
+           - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
+           - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
   
-        - Python
+        
+  - <b>Python</b>
      
-    - <b>Data Visualization</b>
-        - Tableau
-            - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-        - Power BI
-- <b>[MBA IT MGT PORTFOLIO]()
+
+  - <b>Data Visualization</b>
+    - Tableau
+      - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+    - Power BI
+      
+- <b>[MBA IT MGT PORTFOLIO](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
 
