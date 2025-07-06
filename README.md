@@ -48,15 +48,11 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>ABOUT ME</h2>
 
-I am a strategic and client-focused Business Management Professional with a robust background in healthcare, software development, IT, and project management. My intrinsic drive for organization, honed from managing diverse personal and professional endeavors, has evolved into a refined expertise in leading complex initiatives.
+I am a Business Management Professional with a strong foundation in healthcare, IT, and project management, specializing in leveraging data analytics to drive impactful business outcomes. My expertise lies in translating complex data into actionable insights, enabling informed decision-making and optimized solutions.
 
-I excel at managing IT projects, leveraging both Agile and Waterfall methodologies to ensure SDLC compliance and drive cross-functional alignment for high-quality, on-time solutions. My distinct strength lies in translating complex data into actionable insights, utilizing tools like Tableau, Power BI, SQL, and Excel to inform decision-making and optimize project outcomes. This data analytics expertise, coupled with my background in software development and project management, empowers me to effectively address challenges and deliver valuable client solutions.
+My toolkit includes proficiency in Tableau, Power BI, SQL, and Excel, which I apply to analyze data, uncover trends, and support strategic initiatives. While my background encompasses leading Agile and Waterfall IT projects and fostering cross-functional collaboration, my distinct strength is in providing data-driven solutions.
 
-Most recently, I've served as an Agile Leader at United Health Group - Optum, where I successfully led Scrum teams, managing sprint planning, resource allocation, and stakeholder collaboration. These roles have sharpened my proactive problem-solving, communication, and multi-priority management skills, consistently driving successful project and product delivery.
-
-I am passionate about fostering collaborative relationships with diverse stakeholders, championing diversity and inclusion, and cultivating a supportive, results-oriented workplace that thrives on continuous learning.
-
-Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
+Currently, I am actively building out public data analysis projects to demonstrate practical application of these skills. Explore my repositories to see how data insights can drive innovation and success.
 
 <h2></h2>
 
