@@ -37,14 +37,13 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>ABOUT ME</h2>
 
-I am a strategic and client-focused business management professional with a strong background across healthcare, software development, IT, and project management. My journey into project management began with organizing family trips and events, and managing my academic and career paths. Over the years, this initial spark has evolved into a refined skill set and deepened expertise. I excel in managing complex IT projects using Agile and Waterfall methodologies. My approach ensures compliance with SDLC standards and drives cross-functional alignment to deliver high-quality solutions on time. My expertise in data analytics, software development, and project management is complemented by a commitment to continuous learning. This dedication helps me effectively address challenges and provide valuable client solutions.
+I am a strategic and client-focused Business Management Professional with a robust background in healthcare, software development, IT, and project management. My intrinsic drive for organization, honed from managing diverse personal and professional endeavors, has evolved into a refined expertise in leading complex initiatives.
 
+I excel at managing IT projects, leveraging both Agile and Waterfall methodologies to ensure SDLC compliance and drive cross-functional alignment for high-quality, on-time solutions. My distinct strength lies in translating complex data into actionable insights, utilizing tools like Tableau, Power BI, SQL, and Excel to inform decision-making and optimize project outcomes. This data analytics expertise, coupled with my background in software development and project management, empowers me to effectively address challenges and deliver valuable client solutions.
 
-My recent experiences include leading Scrum teams at United Health Group - Optum, where I managed sprint planning, resource allocation, and stakeholder collaboration. These roles refined my proactive problem-solving skills, communication abilities, and capacity to manage multiple priorities, consistently driving successful project outcomes.
+Most recently, I've served as an Agile Leader at United Health Group - Optum, where I successfully led Scrum teams, managing sprint planning, resource allocation, and stakeholder collaboration. These roles have sharpened my proactive problem-solving, communication, and multi-priority management skills, consistently driving successful project and product delivery.
 
-
-I am passionate about fostering collaborative relationships with diverse stakeholders and creating a supportive, results-oriented workplace. Promoting diversity and inclusion is a core value, and I thrive in environments that encourage continuous learning.
-
+I am passionate about fostering collaborative relationships with diverse stakeholders, championing diversity and inclusion, and cultivating a supportive, results-oriented workplace that thrives on continuous learning.
 
 Explore my portfolio to see how my skills and experiences can drive innovation and success in your projects. Connect with me to discover how we can work together to achieve remarkable results and transform the way people work.
 
