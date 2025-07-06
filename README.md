@@ -10,13 +10,13 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
     - <b>Excel</b>
       - <b>Analyzing the Drug Market Project Repo</b>
          - Drug Market Dataset: Data Exploration, Decision Tree Analysis
-         - <i>Review the Project Repo: [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
+         - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
       - <b>Nurse Attrition Linear Regression Analysis Project Repo</b>
         - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
-        - <i>Review the Project Repo: [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
+        - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
       - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project Repo</b>
         - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
-         - <i>Review the Project Repo: [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
+         - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
 
 
   - <b>SQL</b>
@@ -30,12 +30,14 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
   - <b>Python</b>
      
 
+
   - <b>Data Visualization</b>
     - Tableau
       - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
     - Power BI
       
+
 - <b>[MBA IT MGT PORTFOLIO](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
