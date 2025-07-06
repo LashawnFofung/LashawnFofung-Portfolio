@@ -5,11 +5,11 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 
 <h2>TABLE OF CONTENTS</h2> 
 
-- <b>[ABOUT ME](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) </b>
-- <b>[DATA ANALYSIS PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
-- <b>[MBA IT MGT PORTFOLIO](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
-- <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
-- <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
+- [<b>ABOUT ME</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) 
+- [<b>DATA ANALYSIS PROJECTS</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)
+- [<b>MBA IT MGT PORTFOLIO</b>](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
+- [<b>CERTIFICATIONS</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)
+- [<b>CONTACT</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)
 
 
 <h1></h1>
