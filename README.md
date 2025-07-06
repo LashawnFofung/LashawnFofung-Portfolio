@@ -6,7 +6,7 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 <h2>TABLE OF CONTENTS</h2> 
 
 - [<b>ABOUT ME</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#about-me) 
-- [<b>DATA ANALYSIS PROJECTS</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)
+- [<b>DATA ANALYSIS PROJECTS</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#data-analysis-projects)
 - [<b>MBA IT MGT PORTFOLIO</b>](https://github.com/LashawnFofung/MBA-IT-Management-Portfolio)
 - [<b>CERTIFICATIONS</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)
 - [<b>CONTACT</b>](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)
