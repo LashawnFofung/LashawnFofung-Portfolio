@@ -8,9 +8,15 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[DATA ANALYSIS PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
 
     - <b>Excel</b>
-      - [Analyzing the Drug Market Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
-        - [Nurse Attrition Linear Regression Analysis Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
-        - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+      - [Analyzing the Drug Market Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#analyzing-the-drug-market)
+         - Drug Market Dataset: Data Exploration
+         - <i>Review the project: [<b>HERE</b>]() 
+      - [Nurse Attrition Linear Regression Analysis Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/tree/main#analyzing-the-impact-wellness-participation-has-on-nurse-attrition-rate)
+        - Nurse Attrition Dataset: Data Exploration
+        - <i>Review the project: [<b>HERE</b>]() 
+      - [FO Tread Bikes (MBA Capstone Conscious Capitalism) Project Repo](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#-fo-tread-bikes-conscious-capitalism)
+        - FO Tread Bikes Datasets: Data Exploration
+         - <i>Review the project: [<b>HERE</b>]() 
 
 
   - <b>SQL</b>
@@ -34,7 +40,8 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[CERTIFICATIONS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#certifications)</b>
 - <b>[CONTACT](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#contact)</b>
 
-<h2></h2>
+
+<h1></h1>
 
 <h2>ABOUT ME</h2>
 
