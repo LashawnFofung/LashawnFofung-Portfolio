@@ -8,13 +8,13 @@ MBA IT Management | BIS Clinical Informatics | PMP | CSM | CSPO
 - <b>[DATA ANALYSIS PROJECTS](https://github.com/LashawnFofung/LashawnFofung-Portfolio/blob/main/README.md#projects)</b>
 
     - <b>Excel</b>
-      - <b>Analyzing the Drug Market Project Repo</b>
+      - <b>Analyzing the Drug Market Project</b>
          - Drug Market Dataset: Data Exploration, Decision Tree Analysis
          - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Drug-Market-Analysis) 
-      - <b>Nurse Attrition Linear Regression Analysis Project Repo</b>
+      - <b>Nurse Attrition Linear Regression Analysis Project</b>
         - Nurse Attrition Dataset: Data Exploration, Linear Regression Analysis
         - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis) 
-      - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project Repo</b>
+      - <b>FO Tread Bikes (MBA Capstone Conscious Capitalism) Project</b>
         - FO Tread Bikes Datasets: Data Exploration, Pivot Tables, Data Visualization
          - <i>Review the Project Repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/FO-Tread-Bikes) 
 
