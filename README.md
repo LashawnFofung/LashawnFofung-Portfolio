@@ -44,6 +44,9 @@ Currently, I am actively building out public data analysis projects to demonstra
       -  <i>Review the Data Exploration SQL Scripts:</i> 
         - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
         - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
+    - [CryptoPunk NFT Analysis Project](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project)
+      - CryptoPunk Dataset: Data Cleaning, Data Exploration
+      - <i>Review Results & SQL Queries:</i> [<b>HERE</b>]()
   
         
 - <b>Python</b>
