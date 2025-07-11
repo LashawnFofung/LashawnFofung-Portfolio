@@ -39,7 +39,7 @@ Currently, I am actively building out public data analysis projects to demonstra
 
 
 - <b>SQL</b>
-    - <b>Superhereos Analysis Project Repo</b>
+    - <b>Superhereos Analysis Project</b>
       -  Hero Information Dataset: Data Exploration
       -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
       -  <i>Review the Data Exploration SQL Scripts:</i> 
@@ -48,7 +48,7 @@ Currently, I am actively building out public data analysis projects to demonstra
       - [Tableau Public Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
   
-    - <b>CryptoPunk NFT Analysis Project Repo</b>
+    - <b>CryptoPunk NFT Analysis Project</b>
       - CryptoPunk Dataset: Data Cleaning, Data Exploration
       - <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project)
       - <i>Review Results & SQL Queries:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project/blob/main/Results/CryptoPunks%20NFT%20Analysis%20Report.md)
