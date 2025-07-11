@@ -63,7 +63,7 @@ Currently, I am actively building out public data analysis projects to demonstra
 
     - <b>Power BI</b>
       
-<br>
+<h1></h1>
 
 <h2>CERTIFICATIONS</h2>
 
