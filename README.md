@@ -60,6 +60,7 @@ Currently, I am actively building out public data analysis projects to demonstra
 - <b>Data Visualization</b>
     - <b>Tableau</b>
       - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+      - [Tableau Public: Superstore Sales Performance(https://public.tableau.com/shared/YQPTQC4NC?:display_count=n&:origin=viz_share_link)
 
     - <b>Power BI</b>
       
