@@ -61,6 +61,8 @@ Currently, I am actively building out public data analysis projects to demonstra
     - <b>Tableau</b>
       - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
       - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/YQPTQC4NC?:display_count=n&:origin=viz_share_link)
+      - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/superstore_sales_performance_case_study/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
     - <b>Power BI</b>
       
