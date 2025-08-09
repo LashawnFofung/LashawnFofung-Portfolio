@@ -62,13 +62,17 @@ Currently, I am actively building out public data analysis projects to demonstra
 
 - <b>SQL</b>
     - <b>Superhereos Analysis Project</b>
+
+      <img src="https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/Images/Superheroes%20Analysis%20Dashboard.png" width="400"  height="400" alt="Tableau Public Dashboard Superhero Analysis">
+
+      Insights geared towards understanding the superhero population by leveraging aggregated data and window functions to uncover surprising trends in weight distribution and quantify differences in average weight across races, genders, and publishers. For instance, the data reveals male heroes average approximately <b>210 lbs</b> versus <b>145 lbs</b> for females, and DC Comics' roster is heavier at <b>175 lbs</b> on average compared to Marvel's <b>160 lbs</b>.
+      
       -  Hero Information Dataset: Data Exploration
       -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
       -  <i>Review the Data Exploration SQL Scripts:</i> 
         - `Basic`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Basic%20Queries.sql)
         - `Advanced`: [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project/blob/main/SQL%20Queries/Advanced%20Queries.sql)
       - [Tableau Public Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
   
     - <b>CryptoPunk NFT Analysis Project</b>
       - CryptoPunk Dataset: Data Cleaning, Data Exploration
