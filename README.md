@@ -58,16 +58,25 @@ Currently, I am actively building out public data analysis projects to demonstra
      
 
 - <b>Data Visualization</b>
-    - <b>Tableau</b>
-      - <b>Superstore Sales Performance Project</b>
-        - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
-        - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
-        - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-      - <b>Superheroes Analysis Project</b>
-        - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - <b>Superstore Sales Performance Project (Orders from January 2014 - December 2017)</b>
 
-    - <b>Power BI</b>
+     <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="400"  height="400" alt="Superstore Sales Performance Dashboard">
+
+    Insights geared towards the leadership team to better understand and address the company's inconsistent financial performance by leveraging transactional data to identify underlying factors contributing to varying levels of sales and profitability across different dimensions.
+ 
+    - <i>Review the Project Repo:</i> [HERE](https://github.com/LashawnFofung/Superstore-Sales-Performance)
+    - [Tableau Public: Superstore Sales Performance](https://public.tableau.com/shared/MP44DZ8ZT?:display_count=n&:origin=viz_share_link)
+    - [Tableau Public: Superstore Sales Performance Case Study](https://public.tableau.com/views/SuperstoreSalesPerformanceCaseStudy/SuperstoreSalesPerformanceCaseStudy?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
+   
+  - <b>Superheroes Analysis Project</b>
+    -  <i>Review project repo:</i> [<b>HERE</b>](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)
+    - [Tableau Public: Superheroes Analysis Project Dashboard](https://public.tableau.com/views/SuperheroesAnalysisProject/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+        
+
+- <b>Power BI</b>
       
 <h1></h1>
 
