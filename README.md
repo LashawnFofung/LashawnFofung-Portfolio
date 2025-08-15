@@ -30,7 +30,7 @@ Currently, I am actively building out public data analysis projects to demonstra
 - <b>Data Visualization</b>
     - <b>Tableau</b>
     
-      - <b>Superstore Sales Performance Project (Orders from January 2014 - December 2017)</b>
+      - <b>Superstore Sales Performance Analysis: Optimizing Superstore Sales Performance for Enhanced Profitability (Orders from January 2014 - December 2017)</b>
 
         <img src="https://github.com/LashawnFofung/Superstore-Sales-Performance/blob/main/Images/Superstore%20Sales%20Performance%20Dashboard.png" width="400"  height="400" alt="Superstore Sales Performance Dashboard">
 
