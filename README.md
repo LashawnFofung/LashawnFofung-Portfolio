@@ -73,7 +73,7 @@ I'm a Technical Product Manager who works where **business, technology, and the 
 |---|---|---|---|
 | **[Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance)** | Why doesn't high revenue turn into profit? | $2.3M sales but a 12.47% profit ratio; Texas, Tables, and Bookcases lose margin | SQL · Tableau · WBS |
 | **[CryptoPunks NFT Analysis](https://github.com/LashawnFofung/Cryptopunks-NFT-Analysis-Project)** | How volatile and concentrated is the market? | Mean price ~$177K vs. median ~$56K — a few outliers skew everything | SQL (CTEs, window functions) |
-| **[Superheroes Analysis](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)** | What patterns hide in 732 character records? | Male heroes average ~210 lbs vs. ~145 lbs for female heroes | SQL · Tableau |
+| **[Superheroes Analysis](https://github.com/LashawnFofung/Super-Heroes-Analysis-Project)** | What patterns hide in 732 character records? | Marvel and DC make up 82% of heroes; ~30% of heights and weights were missing and had to be filtered out | SQL · Tableau |
 | **[Nurse Attrition Regression](https://github.com/LashawnFofung/Nurse-Attrition-Linear-Regression-Analysis)** | Does a well-being program reduce nurse turnover? | Participation explains ~75% of attrition variation (p < 0.001); each +1% participation → −0.08 pts attrition | Excel regression |
 | **[Drug Market Analysis](https://github.com/LashawnFofung/Drug-Market-Analysis)** | New drug, modified drug, or no change? | Modify the existing drug: ~40% higher expected value, robust down to a 28% success chance | Excel decision tree |
 
