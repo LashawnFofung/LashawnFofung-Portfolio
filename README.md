@@ -42,7 +42,7 @@ I'm a Technical Product Manager who works where **business, technology, and the 
 | 🤖 | [Wayfair Agentic BI](https://github.com/LashawnFofung/Wayfair-Agentic-BI) + [Agentic Workflow Hub](https://github.com/LashawnFofung/Agentic-Workflow-Hub) | 4 PRDs **and** 5 working n8n agents — spec and build |
 | 📸 | [BeReal Passport & Community Boards](https://github.com/LashawnFofung/BeReal-RealProcess) | 4 of 5 testers would open the app more · [try the prototype](https://lashawnfofung.github.io/BeReal-RealProcess/) |
 | 📊 | [Superstore Sales Performance](https://github.com/LashawnFofung/Superstore-Sales-Performance) | Found why $2.3M in sales yielded only a 12.47% profit ratio |
-| 🚲 | [FO Tread Bikes (MBA Capstone)](https://github.com/LashawnFofung/FO-Tread-Bikes) | 127.68% ROI · perfect 1.000 financial risk score |
+| 🚲 | [FO Tread Bikes (MBA Capstone)](https://github.com/LashawnFofung/FO-Tread-Bikes) | Revenue grew ~9× to $4.7M · industry-best Balanced Scorecard in Q2 and Q4 |
 
 ---
 
@@ -83,7 +83,7 @@ I'm a Technical Product Manager who works where **business, technology, and the 
 
 | Project | What it is | Proof point | Tools |
 |---|---|---|---|
-| **[FO Tread Bikes (MBA Capstone)](https://github.com/LashawnFofung/FO-Tread-Bikes)** | Ran a bike-manufacturing company in a competitive market simulation: strategy, finance, operations, and marketing | 127.68% ROI · perfect 1.000 financial risk score · [business plan](https://youtu.be/fPxMes6A5BI) · [stockholder report](https://youtu.be/c9PEnwB_V0w) | Balanced Scorecard · Excel dashboards |
+| **[FO Tread Bikes (MBA Capstone)](https://github.com/LashawnFofung/FO-Tread-Bikes)** | Ran a bike-manufacturing company in a competitive market simulation: strategy, finance, operations, and marketing | Revenue grew ~9× to $4.7M · industry-best Balanced Scorecard in Q2 and Q4 · perfect 1.000 financial risk score · [business plan](https://youtu.be/fPxMes6A5BI) · [stockholder report](https://youtu.be/c9PEnwB_V0w) | Balanced Scorecard · Excel dashboards |
 
 ---
 
