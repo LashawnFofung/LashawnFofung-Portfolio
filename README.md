@@ -1,7 +1,6 @@
-<div align="center">
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/readme-header-dark.svg"><img src="assets/readme/readme-header-light.svg" width="880" alt="Project Portfolio Index: every project, what it proves and where to find it."></picture></p>
 
-# Lashawn Fofung · Project Portfolio
-### Technical Product Manager · AI Products, Agentic Workflows & Data-Driven Strategy
+<div align="center">
 
 **The complete index of my work: every project, what it proves, and where to find it.**
 
@@ -12,6 +11,25 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/LashawnFofung)
 
 </div>
+
+## Quick Tour
+
+Dark blue cards are the four sections. Light blue cards help you find your way.
+
+<table>
+<tr>
+<td><a href="#-ai-products--agentic-systems"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-01-ai-products-agentic-systems-dark.svg"><img src="assets/readme/card-01-ai-products-agentic-systems-light.svg" width="420" alt="AI Products &amp; Agentic Systems: Agents, RAG and document AI. Section."></picture></a></td>
+<td><a href="#-product-strategy--ux-research"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-02-product-strategy-ux-research-dark.svg"><img src="assets/readme/card-02-product-strategy-ux-research-light.svg" width="420" alt="Product Strategy &amp; UX Research: Personas, prototypes, testing. Section."></picture></a></td>
+</tr>
+<tr>
+<td><a href="#-data--decision-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-03-data-decision-analysis-dark.svg"><img src="assets/readme/card-03-data-decision-analysis-light.svg" width="420" alt="Data &amp; Decision Analysis: SQL, Tableau and Excel. Section."></picture></a></td>
+<td><a href="#-business-strategy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-04-business-strategy-dark.svg"><img src="assets/readme/card-04-business-strategy-light.svg" width="420" alt="Business Strategy: MBA capstone. Section."></picture></a></td>
+</tr>
+<tr>
+<td><a href="#how-projects-connect"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-05-how-projects-connect-dark.svg"><img src="assets/readme/card-05-how-projects-connect-light.svg" width="420" alt="How Projects Connect: From notebooks to MVP. Guide."></picture></a></td>
+<td><a href="#find-by-skill"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/readme/card-06-find-by-skill-dark.svg"><img src="assets/readme/card-06-find-by-skill-light.svg" width="420" alt="Find By Skill: Jump to the skill you need. Guide."></picture></a></td>
+</tr>
+</table>
 
 ---
 
@@ -25,7 +43,6 @@ MBA, IT Management · BIS, Clinical Informatics · PMP · CSPO · CSM · Oracle 
 I'm a Technical Product Manager who works where **business, technology, and the user** meet. I can scope a product, build enough of it to understand the trade-offs, and test it with real people before asking a team to commit.
 
 - 🩺 **Clinical roots.** As a Clinical Liaison, I learned to treat data and requirements with high-stakes rigor.
-- 🏢 **Product delivery.** At **Optum**, I led digital enrollment enhancements and delivered user-centered work validated by **98% CSAT**.
 - 🎓 **Business strategy.** An **MBA in IT Management** plus **PMP, CSPO, and CSM** certifications.
 - 🤖 **Applied AI.** I write PRDs for agentic systems and build RAG pipelines myself.
 - 🎨 **Design.** UI/UX training lets me balance what's viable, feasible, and right for the user.
@@ -155,3 +172,7 @@ flowchart LR
 **Open to Technical PM and AI PM roles** · 👉 [Let's connect on LinkedIn](https://www.linkedin.com/in/lashawnfofung/) · 🎥 [Demos on YouTube](https://www.youtube.com/@LashawnFofung)
 
 </div>
+
+---
+
+<p align="center"><sub>Built by Lashawn Fofung · LF™ · Learn. Apply. Grow. Repeat.</sub></p>
